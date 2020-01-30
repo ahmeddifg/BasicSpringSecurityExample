@@ -1,5 +1,4 @@
 package com.springsec.app.entities;
-
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 
